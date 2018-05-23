@@ -1,4 +1,4 @@
-package com.ramakant.configserver.configserver;
+package com.ramakant.spring.configserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
